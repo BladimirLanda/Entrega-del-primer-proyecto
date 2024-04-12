@@ -119,6 +119,7 @@ body {
   padding: 25px;
   box-sizing: border-box;
   background-color: #fff;
+  overflow-x: auto;
 }
 .cart .cart__header {
   display: flex;
